@@ -1,116 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"  encoding="UTF-8" ?>
 <opilased>
-  <opilane>
-    <nimi>Janek</nimi>
-    <isikukood>501350672</isikukood>
-    <eriala>Juuksur</eriala>
-    <pilt>https://www.socialsciencespace.com/2019/10/student-success-from-the-perspective-of-students-themselves/</pilt>
-    <elukoht>
-      <linn>Tallinn</linn>
-      <maakond>Harjumaakond</maakond>
-    </elukoht>
-    <aine>
-      <nimetus>Matemaatika</nimetus>
-      <hinne>4</hinne>
-    </aine>
-    <aine>
-      <nimetus>Eesti keel</nimetus>
-      <hinne>5</hinne>
-    </aine>
-  </opilane>
-  <opilane>
-    <nimi>Madis</nimi>
-    <pilt>img</pilt>
-    <isikukood>707350679</isikukood>
-    <eriala>Tarkvara arendaja</eriala>
-    <elukoht>
-      <linn>Võru</linn>
-      <maakond>Võrumaa</maakond>
-    </elukoht>
-    <aine>
-      <nimetus>Programmeerimine</nimetus>
-      <hinne>5</hinne>
-    </aine>
-    <aine>
-      <nimetus>Inglise keel</nimetus>
-      <hinne>4</hinne>
-    </aine>
-  </opilane>
-  <opilane>
-    <nimi>Peorg Heemus</nimi>
-    <isikukood>501350672</isikukood>
-    <eriala>Logistik</eriala>
-    <elukoht>
-      <linn>Tartu</linn>
-      <maakond>Tartumaa</maakond>
-    </elukoht>
-    <aine>
-      <nimetus>Kehaline</nimetus>
-      <hinne>5</hinne>
-    </aine>
-    <aine>
-      <nimetus>Vene keel</nimetus>
-      <hinne>3</hinne>
-    </aine>
-  </opilane>
-  <opilane>
-    <nimi>George</nimi>
-    <isikukood>5067670672</isikukood>
-    <eriala>Tarkvara arendaja</eriala>
-    <elukoht>
-      <linn>Kiili</linn>
-      <maakond>Harjumaakond</maakond>
-    </elukoht>
-    <aine>
-      <nimetus>Veebirakendused</nimetus>
-      <hinne>5</hinne>
-    </aine>
-    <aine>
-      <nimetus>Bioloogia</nimetus>
-      <hinne>3</hinne>
-    </aine>
-  </opilane>
-  <opilane>
-    <nimi>David🥷🏿</nimi>
-    <isikukood>698086454</isikukood>
-    <eriala>Auto mehaanik</eriala>
-    <elukoht>
-      <linn>Pärnu</linn>
-      <maakond>Pärnumaa</maakond>
-    </elukoht>
-  </opilane>
-  <opilane>
-    <nimi>Tanno Marmo</nimi>
-    <isikukood>12345</isikukood>
-    <eriala>Torumees</eriala>
-    <elukoht>
-      <linn>Jõhvi</linn>
-      <maakond/>
-    </elukoht>
-  </opilane>
-  <elukoht>
-    <linn>Kohila</linn>
-    <maakond/>
-  </elukoht>
-  <nimi>Marmo Sarmo</nimi>
-  <isikukood>12456</isikukood>
-  <eriala>Maja vaht</eriala>
-  <opilane>
-    <elukoht>
-      <linn>Maardu</linn>
-      <maakond/>
-    </elukoht>
-    <nimi>Madis</nimi>
-    <isikukood>007</isikukood>
-    <eriala>Tulistaja</eriala>
-  </opilane>
-  <opilane>
-    <elukoht>
-      <linn>NYC</linn>
-      <maakond>USA</maakond>
-    </elukoht>
-    <nimi>Lilpasukaonthestreet</nimi>
-    <isikukood>696741240</isikukood>
-    <eriala>Trap</eriala>
-  </opilane>
+    <opilane>
+        <inmi>Janek</inmi>
+        <isikukood>501350672</isikukood>
+        <eriala>Tarkvara arendaja</eriala>
+        <elukoht>
+            <linn>Tallinn</linn>
+            <maakond></maakond>
+        </elukoht>
+    </opilane>
+    <opilane>
+        <inmi>Madis</inmi>
+        <isikukood>707350679</isikukood>
+        <eriala>Tarkvara arendaja</eriala>
+        <elukoht>
+            <linn>Võru</linn>
+            <maakond>Võrumaa</maakond>
+        </elukoht>
+    </opilane>
+    <opilane>
+        <inmi>Madis</inmi>
+        <isikukood>501350672</isikukood>
+        <eriala>Tarkvara arendaja</eriala>
+        <elukoht>
+            <linn>Tartu</linn>
+            <maakond>Tartumaa</maakond>
+        </elukoht>
+    </opilane>
+    <opilane>
+        <inmi>George</inmi>
+        <isikukood>5067670672</isikukood>
+        <eriala>Tarkvara arendaja</eriala>
+        <elukoht>
+            <linn>Saue</linn>
+            <maakond>Harjumaakond</maakond>
+        </elukoht>
+    </opilane>
+    <opilane>
+        <inmi>David</inmi>
+        <isikukood>698086454</isikukood>
+        <eriala>Tarkvara arendaja</eriala>
+        <elukoht>
+            <linn>Pärnu</linn>
+            <maakond>Pärnumaa</maakond>
+        </elukoht>
+    </opilane>
 </opilased>
